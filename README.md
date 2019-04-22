@@ -1,5 +1,5 @@
 # EbayTests
-This repo contains the Ebay tests source code using Selenium Web Driver with Specflow.
+This repository contains the Ebay tests source code using Selenium Web Driver with Specflow.
 
 ## Installation and Setup
 * Visual Studio 2017
@@ -20,6 +20,6 @@ The Ebay tests project source code was committed to Azure DevOps services reposi
 ### Azure DevOps Pepiline
 ![alt text](https://github.com/yudhitespinoza/EbayTests/blob/master/Images/pipleline.png)
 ### Azure DevOps Tests Report
-![alt text](https://github.com/yudhitespinoza/EbayTests/blob/master/Images/repo.png)
+![alt text](https://github.com/yudhitespinoza/EbayTests/blob/master/Images/report.png)
 ### Azure DevOps Run Notification
 ![alt text](https://github.com/yudhitespinoza/EbayTests/blob/master/Images/notification.png)
