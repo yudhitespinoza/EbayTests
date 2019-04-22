@@ -2,12 +2,12 @@
 This repo contains the Ebay tests source code using Selenium Web Driver with Specflow.
 
 ## Installation and Setup
-Visual Studio 2017
-SpecFlow Visual Studio extension
-SpecFlow 2.4.1 package
-Selenium.WebDriver 3.141.0 package
-Selenium.Chrome.WebDriver 2.45 package
-MSTest 1.3.2 package
+*Visual Studio 2017
+*SpecFlow Visual Studio extension
+*SpecFlow 2.4.1 package
+*Selenium.WebDriver 3.141.0 package
+*Selenium.Chrome.WebDriver 2.45 package
+*MSTest 1.3.2 package
 
 It requires to get installed Visual Studio 2017 and Specflow extension.
 Once you have them you can open the solution and click build the project and run the tests locally.
